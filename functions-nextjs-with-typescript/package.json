@@ -1,0 +1,8 @@
+{
+  "name": "nextjs-firebase-hosting-boilerplate",
+  "version": "1.0.0",
+  "repository": "git@github.com:yukin01/nextjs-firebase-hosting-boilerplate.git",
+  "author": "yukin01 <bump1105@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
