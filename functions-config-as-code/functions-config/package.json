@@ -1,0 +1,15 @@
+{
+  "name": "functions-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "cat": "node functions.config.js",
+    "set": "firebase functions:config:set $(node functions.config.js)"
+  },
+  "devDependencies": {
+    "dotenv": "^8.1.0",
+    "flat": "^4.1.0"
+  }
+}
